@@ -12,13 +12,14 @@ Some extra's needed:
 
 - photos to compare in the same-called folder called in the format "n.jpg", where n is an int, which lies in the interval (0, amount of photos). Also the 'amount' variable (11th line) must be changed in order to be equal to the amount of the photos for comparing.
 
-- "models.json" should be edited in order to suit the models photos and contain their info for correct work of the script. 
+- "models.json" should be edited in order to suit the models photos and contain their info for correct work of the script. All keys and values for change are marked by the '*'.
+
 The database scheme: 
 ```
  {
-  "model-number(equal to the number of photo in its name: '/photos/"n.jpg"')":{
-   "name":"model-name",
-   "surname":"model-surname",
+  "*model-number(equal to the number of photo in its name: '/photos/"n.jpg"')":{
+   "name":"*model-name",
+   "surname":"*model-surname",
    "rating":1400
   }
  }
