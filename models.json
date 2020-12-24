@@ -2,21 +2,21 @@
  "0":{
   "name":"Sony",
   "surname":"PS 5",
-  "rating":1415.0963453862237
+  "rating":1400
  },
  "1":{
   "name":"Xbox",
   "surname":"Se.X",
-  "rating":1384.3555588484637
+  "rating":1400
  },
  "2":{
   "name":"Nintendo",
   "surname":"Switch",
-  "rating":1392.1841742594847
+  "rating":1400
  },
  "3":{
   "name":"Sony",
   "surname":"PS 4",
-  "rating":1408.3639215058279
+  "rating":1400
  }
 }
