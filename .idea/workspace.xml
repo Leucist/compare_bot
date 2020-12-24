@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47ff5c43-ab02-42fc-8b63-92c362b69377" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.json" beforeDir="false" afterPath="$PROJECT_DIR$/models.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/photos/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/photos/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/photos/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/photos/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userbase.json" beforeDir="false" afterPath="$PROJECT_DIR$/userbase.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

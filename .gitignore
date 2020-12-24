@@ -1,2 +1,5 @@
+$ cat .gitignore
+
 test.py
+config.py
 photos/*.jpg
