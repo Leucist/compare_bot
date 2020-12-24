@@ -15,9 +15,15 @@ Some extra's needed:
 - "models.json" should be edited in order to suit the models photos and contain their info for correct work of the script. 
 The database scheme: 
 > {
+
 >  "model-number(equal to the number of photo in its name: '/photos/"n.jpg"')":{
+
 >   "name":"model-name",
+
 >   "surname":"model-surname",
+
 >   "rating":1400
+
 >  }
+
 > }
