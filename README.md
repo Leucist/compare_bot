@@ -1,6 +1,7 @@
 The 'CompareBot' project. 
 
 [![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/Leucist/compare_bot)
+[![Version](https://img.shields.io/github/commits-since/Leucist/compare_bot/v1.0)](https://github.com/Leucist/compare_bot)
 
 The idea is to compare photos in couples, using the Elo rating and making up the top this way.
 
