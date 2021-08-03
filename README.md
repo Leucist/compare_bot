@@ -17,12 +17,13 @@ Some extra's needed:
 
 > The "models.json" database scheme:
 
-```
+```json
  {
-  "*model-number(equal to the number of photo in its name: '/photos/"n.jpg"')":{
-   "name":"*model-name",
-   "surname":"*model-surname",
-   "rating":1400
+  "*model-number(equal to the number 'n' of photo in its name: '/photos/n.jpg')":
+  {
+   "name": "*model-name",
+   "surname": "*model-surname",
+   "rating": 1400
   }
  }
 ```
